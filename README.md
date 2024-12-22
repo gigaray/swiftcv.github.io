@@ -1,2 +1,1 @@
-# swiftcv.github.io
-one page resume
+Thia is  place holder for Abhijit Rao's resume - 
